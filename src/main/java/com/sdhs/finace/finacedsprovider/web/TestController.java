@@ -33,4 +33,8 @@ public class TestController {
     public void printfFFf(){
         System.out.println("sdada");
     }
+    @RequestMapping("rrrrr")
+    public void fff(){
+        System.out.println("rrrrrr");
+    }
 }
