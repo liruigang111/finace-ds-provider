@@ -18,7 +18,7 @@ public class TestController {
 
     @RequestMapping("out")
     public void printOut(){
-        System.out.println("哈哈");
+        System.out.println("哈哈adaadaad");
     }
 
 }
