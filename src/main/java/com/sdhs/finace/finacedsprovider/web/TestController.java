@@ -29,4 +29,8 @@ public class TestController {
     public void printHH(){
         System.out.println("heiehi");
     }
+    @RequestMapping("gfff")
+    public void printfFFf(){
+        System.out.println("sdada");
+    }
 }
