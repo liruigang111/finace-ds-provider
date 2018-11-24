@@ -21,4 +21,8 @@ public class TestController {
         System.out.println("哈哈adaadaad");
     }
 
+    @RequestMapping("gg")
+    public void printGG(){
+        System.out.println("yayay");
+    }
 }
