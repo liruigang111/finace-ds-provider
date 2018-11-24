@@ -16,33 +16,5 @@ public class TestController {
         System.out.println("端口号是---"+port);
     }
 
-    @RequestMapping("out")
-    public void printOut(){
-        System.out.println("哈哈adaadaad");
-    }
 
-    @RequestMapping("gg")
-    public void printGG(){
-        System.out.println("yayay");
-    }
-    @RequestMapping("gfff")
-    public void printHH(){
-        System.out.println("heiehi");
-    }
-    @RequestMapping("gfff")
-    public void printfFFf(){
-        System.out.println("sdada");
-    }
-    @RequestMapping("rrrrr")
-    public void fff(){
-        System.out.println("rrrrrr");
-    }
-    @RequestMapping("wwwww")
-    public void fffhhhhhh(){
-        System.out.println("wwwww");
-    }
-    @RequestMapping("qqqqqq")
-    public void qqqqqq(){
-        System.out.println("qqqqqqq");
-    }
 }
