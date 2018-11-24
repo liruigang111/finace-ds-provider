@@ -15,4 +15,10 @@ public class TestController {
     public void getPort(){
         System.out.println("端口号是---"+port);
     }
+
+    @RequestMapping("out")
+    public void printOut(){
+        System.out.println("哈哈");
+    }
+
 }
