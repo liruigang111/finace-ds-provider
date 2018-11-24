@@ -37,4 +37,8 @@ public class TestController {
     public void fff(){
         System.out.println("rrrrrr");
     }
+    @RequestMapping("nnnnnnnn")
+    public void fffhhhhhh(){
+        System.out.println("nnnnnnnn");
+    }
 }
